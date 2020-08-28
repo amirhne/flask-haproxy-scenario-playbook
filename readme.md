@@ -12,7 +12,7 @@ ansible@127.0.0.1:22
 
 .
 
-flask_servers:
+flask_servers group:
 
 ansible@127.0.0.1:23
 
