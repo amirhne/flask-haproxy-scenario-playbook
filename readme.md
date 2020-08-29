@@ -1,5 +1,5 @@
 # Ansible Playbook for Deploying an HAproxy Web Traffic Load Balancing
-This is ansible playbook that is encrypted with ansible-vault. It can be used to run following scenario with [this lab environment](https://github.com/amirhne/flask-haproxy-scenario-lab).
+This is ansible playbook that is encrypted with ansible-vault. It can be used to run a load balancing scenario with a simple flask web application.
 
 ## How To Use It?
 For running this ansible playbook you should install ansible and run lab environment from [here](https://github.com/amirhne/flask-haproxy-scenario-lab) on your machine then run following command in project root directory:
