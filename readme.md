@@ -2,7 +2,7 @@
 This is ansible playbook that is encrypted with ansible-vault. It can be used to run following scenario with [this lab environment](https://github.com/amirhne/flask-haproxy-scenario-lab).
 
 ## How To Use It?
-For running this ansible playbook you should have ansible installed and run lab environment from [here](https://github.com/amirhne/flask-haproxy-scenario-lab) on your machine then run following command in project root directory:
+For running this ansible playbook you should install ansible and run lab environment from [here](https://github.com/amirhne/flask-haproxy-scenario-lab) on your machine then run following command in project root directory:
 ```
 ansible-playbook -i inventory site.yml --ask-vault-pass
 ```
