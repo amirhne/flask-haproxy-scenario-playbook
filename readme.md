@@ -6,7 +6,7 @@ For running this ansible playbook you should install ansible and run lab environ
 ```
 ansible-playbook -i inventory site.yml --ask-vault-pass
 ```
-then enter the vault pass that is given in next part.
+then enter the vault pass that is given in next part. you can see the results on your machine by entering http://127.0.0.1:8080 in your browser.
 
 ## Playbook password and Ansible Nodes Credentials
 ansible-vault password: 1234567
