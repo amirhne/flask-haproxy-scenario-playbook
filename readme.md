@@ -32,4 +32,4 @@ all servers password: 1234567
 ## Scenario
 The Scenario is this:
 
-![Scenario Pic](https://github.com/amirhne/flask-haproxy-scenario-playbook/blob/master/scenario.jpg)
+![Scenario Pic](https://github.com/amirhne/flask-haproxy-scenario-playbook/blob/master/Ansible_HAProxy_Scenario.jpg)
